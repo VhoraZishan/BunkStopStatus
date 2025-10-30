@@ -5,10 +5,6 @@ repo: BunkStopStatus # The name of this repository
 sites:
   - name: BunkStop 
     url: https://bunkstop.vercel.app/
-  - name: BunkStopTestTable
-    url: https://xcxpsuauvlgrlniepkdm.supabase.co/rest/v1/ping
-  - name: BunkStopRESTAPI
-    url: https://xcxpsuauvlgrlniepkdm.supabase.co/rest/v1/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
