@@ -1,7 +1,7 @@
-url: https://xcxpsuauvlgrlniepkdm.supabase.co
+url: https://xcxpsuauvlgrlniepkdm.supabase.co/rest/v1/
 status: down
-code: 404
-responseTime: 20
-lastUpdated: 2025-10-30T08:29:46.740Z
+code: 401
+responseTime: 21
+lastUpdated: 2025-10-30T09:11:22.519Z
 startTime: 2025-10-30T08:29:46.681Z
 generator: Upptime <https://github.com/upptime/upptime>
