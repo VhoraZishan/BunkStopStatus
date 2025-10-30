@@ -10,51 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 244,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "BunkStopTestTable",
-    "url": "https://xcxpsuauvlgrlniepkdm.supabase.co/rest/v1/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/xcxpsuauvlgrlniepkdm.supabase.co.ico",
-    "slug": "bunk-stop-test-table",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 148,
-    "timeDay": 148,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
-    "dailyMinutesDown": {
-      "2025-10-30": 42
-    }
-  },
-  {
-    "name": "BunkStopRESTAPI",
-    "url": "https://xcxpsuauvlgrlniepkdm.supabase.co/rest/v1/",
-    "icon": "https://icons.duckduckgo.com/ip3/xcxpsuauvlgrlniepkdm.supabase.co.ico",
-    "slug": "bunk-stop-restapi",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
-    "dailyMinutesDown": {
-      "2025-10-30": 42
-    }
   }
 ]
