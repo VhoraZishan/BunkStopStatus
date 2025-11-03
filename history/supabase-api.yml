@@ -1,7 +1,7 @@
-url: https://xcxpsuauvlgrlniepkdm.supabase.co
-status: down
-code: 404
-responseTime: 181
-lastUpdated: 2025-11-02T23:17:03.369Z
+url: https://xcxpsuauvlgrlniepkdm.supabase.co/functions/v1/ping
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2025-11-03T07:13:14.728Z
 startTime: 2025-10-31T10:08:27.631Z
 generator: Upptime <https://github.com/upptime/upptime>
