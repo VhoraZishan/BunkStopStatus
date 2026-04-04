@@ -30,7 +30,7 @@
     "url": "https://xcxpsuauvlgrlniepkdm.supabase.co/functions/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/xcxpsuauvlgrlniepkdm.supabase.co.ico",
     "slug": "supabase-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +42,7 @@
     "timeMonth": 281,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2026-04-04": 0,
       "2026-01-28": 615,
       "2026-01-27": 308,
       "2025-12-19": 57,
